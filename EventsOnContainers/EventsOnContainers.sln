@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29911.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{8D2361A6-746A-4339-99AE-7D636BC06500}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "services", "services", "{693CD0C5-7BC3-4797-9DEC-E761780A9632}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "web", "web", "{50159A5F-2C67-49A2-AF63-EDDAC07AB79A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EventsAPI", "EventsAPI\EventsAPI.csproj", "{F29A977F-2489-4C69-8D85-7C5B0C9094C7}"
+EndProject
+Project("{E53339B2-1760-4266-BCC7-CA923CBCF16C}") = "docker-compose", "docker-compose.dcproj", "{457528F7-BAE9-4B76-A3E2-459DE3551A46}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F29A977F-2489-4C69-8D85-7C5B0C9094C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F29A977F-2489-4C69-8D85-7C5B0C9094C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F29A977F-2489-4C69-8D85-7C5B0C9094C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F29A977F-2489-4C69-8D85-7C5B0C9094C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{457528F7-BAE9-4B76-A3E2-459DE3551A46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{457528F7-BAE9-4B76-A3E2-459DE3551A46}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{457528F7-BAE9-4B76-A3E2-459DE3551A46}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{457528F7-BAE9-4B76-A3E2-459DE3551A46}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{693CD0C5-7BC3-4797-9DEC-E761780A9632} = {8D2361A6-746A-4339-99AE-7D636BC06500}
+		{50159A5F-2C67-49A2-AF63-EDDAC07AB79A} = {8D2361A6-746A-4339-99AE-7D636BC06500}
+		{F29A977F-2489-4C69-8D85-7C5B0C9094C7} = {693CD0C5-7BC3-4797-9DEC-E761780A9632}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B54C51FB-FE1A-4DD4-BBD2-D2E9145A70B2}
+	EndGlobalSection
+EndGlobal

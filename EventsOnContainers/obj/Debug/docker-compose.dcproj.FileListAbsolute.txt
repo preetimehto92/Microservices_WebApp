@@ -1,0 +1,16 @@
+C:\Users\v-prmaht\source\repos\EventsOnContainers\bin\Debug\appsettings.Development.json
+C:\Users\v-prmaht\source\repos\EventsOnContainers\bin\Debug\appsettings.json
+C:\Users\v-prmaht\source\repos\EventsOnContainers\bin\Debug\Properties\launchSettings.json
+C:\Users\v-prmaht\source\repos\EventsOnContainers\bin\Debug\EventsAPI.exe
+C:\Users\v-prmaht\source\repos\EventsOnContainers\bin\Debug\EventsAPI.dll
+C:\Users\v-prmaht\source\repos\EventsOnContainers\bin\Debug\Microsoft.EntityFrameworkCore.dll
+C:\Users\v-prmaht\source\repos\EventsOnContainers\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\v-prmaht\source\repos\EventsOnContainers\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\v-prmaht\source\repos\EventsOnContainers\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\v-prmaht\source\repos\EventsOnContainers\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\v-prmaht\source\repos\EventsOnContainers\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\v-prmaht\source\repos\EventsOnContainers\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Users\v-prmaht\source\repos\EventsOnContainers\bin\Debug\EventsAPI.pdb
+C:\Users\v-prmaht\source\repos\EventsOnContainers\obj\Debug\docker-compose.dcprojAssemblyReference.cache
+C:\Users\v-prmaht\source\repos\EventsOnContainers\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache
+C:\Users\v-prmaht\source\repos\EventsOnContainers\obj\Debug\docker-compose.dcproj.CopyComplete
